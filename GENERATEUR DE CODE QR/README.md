@@ -1,4 +1,4 @@
-# 📱 Générateur de Code QR
+# Générateur de Code QR
 
 Un script Python pour générer des codes QR à partir d'un lien ou texte.
 
