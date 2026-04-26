@@ -10,4 +10,4 @@ qr.add_data(lien)
 image = qr.make_image()
 image.save(chemin)
 
-print("Votre QR Code a été generé :) ")
+print(f"Votre QR Code a été généré dans le chemin fourni : {chemin}")
